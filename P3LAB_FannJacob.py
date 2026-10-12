@@ -49,8 +49,8 @@ def  print_needed(coin, coin_name):
                 print(f"{coin} {coin_name}s")
 # Call the function using the different dollars & coins
 
-print_needed(dollars, "dollar")
-print_needed(quarters, "quarter")
-print_needed(dimes, "dime")
-print_needed(nickels, "nickel")
-print_needed(pennies, "penny")
+print_needed(dollars, "Dollar")
+print_needed(quarters, "Quarter")
+print_needed(dimes, "Dime")
+print_needed(nickels, "Nickel")
+print_needed(pennies, "Penny")
