@@ -3,7 +3,7 @@
 # P4HW2
 # Employee salary calculator w/ added loops
 
-# Create accumlator variables
+# Create accumulator variables
 employee_amount = 0
 overtime_total = 0
 regular_total = 0
